@@ -1,0 +1,201 @@
+1662127187867	geckodriver	INFO	Listening on 127.0.0.1:59249
+1662127190953	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59250" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\LaTortue\\AppData\\Local\\Temp\\rust_mozprofileQfpL5P"
+1662127191736	Marionette	INFO	Marionette enabled
+1662127191742	Marionette	INFO	Listening on port 59261
+WebDriver BiDi listening on ws://localhost:59250
+Read port: 59261
+1662127191921	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\LaTortue\\AppData\\Local\\Temp\\rust_mozprofileQfpL5P\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59250/devtools/browser/6422210f-b1e7-4fc2-9192-6519b9dc16e4
+JavaScript error: resource://gre/modules/XULStore.jsm, line 62: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 62: Error: Can't find profile directory.
+1662127228700	Marionette	INFO	Stopped listening on port 59261
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1662127230788	geckodriver	INFO	Listening on 127.0.0.1:59347
+1662127233860	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59348" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\LaTortue\\AppData\\Local\\Temp\\rust_mozprofileLJuba8"
+1662127234240	Marionette	INFO	Marionette enabled
+1662127234246	Marionette	INFO	Listening on port 59359
+WebDriver BiDi listening on ws://localhost:59348
+Read port: 59359
+1662127234398	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\LaTortue\\AppData\\Local\\Temp\\rust_mozprofileLJuba8\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59348/devtools/browser/19a92344-33a6-4ef5-a1e5-6434741d0284
+JavaScript error: resource://gre/modules/XULStore.jsm, line 62: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 62: Error: Can't find profile directory.
+1662127242533	Marionette	INFO	Stopped listening on port 59359
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1662127251786	geckodriver	INFO	Listening on 127.0.0.1:59423
+1662127254844	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59424" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\LaTortue\\AppData\\Local\\Temp\\rust_mozprofileYrrzn7"
+1662127255224	Marionette	INFO	Marionette enabled
+1662127255230	Marionette	INFO	Listening on port 59434
+WebDriver BiDi listening on ws://localhost:59424
+Read port: 59434
+1662127255376	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\LaTortue\\AppData\\Local\\Temp\\rust_mozprofileYrrzn7\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59424/devtools/browser/80b983ec-ade8-4568-b614-313564a2c3d6
+JavaScript error: resource://gre/modules/XULStore.jsm, line 62: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 62: Error: Can't find profile directory.
+1662127410858	Marionette	INFO	Stopped listening on port 59434
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1662127413823	geckodriver	INFO	Listening on 127.0.0.1:59583
+1662127416906	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59584" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\LaTortue\\AppData\\Local\\Temp\\rust_mozprofileREHD09"
+1662127417293	Marionette	INFO	Marionette enabled
+1662127417298	Marionette	INFO	Listening on port 59595
+WebDriver BiDi listening on ws://localhost:59584
+Read port: 59595
+1662127417440	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\LaTortue\\AppData\\Local\\Temp\\rust_mozprofileREHD09\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59584/devtools/browser/b004041e-706d-478c-8b0a-8c5a57c7e997
+JavaScript error: resource://gre/modules/XULStore.jsm, line 62: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 62: Error: Can't find profile directory.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://randomwordgenerator.com."
+1662127463084	Marionette	INFO	Stopped listening on port 59595
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1662127464830	geckodriver	INFO	Listening on 127.0.0.1:59688
+1662127467915	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59689" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\LaTortue\\AppData\\Local\\Temp\\rust_mozprofiletiQrRo"
+1662127468293	Marionette	INFO	Marionette enabled
+1662127468300	Marionette	INFO	Listening on port 59701
+WebDriver BiDi listening on ws://localhost:59689
+Read port: 59701
+1662127468442	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\LaTortue\\AppData\\Local\\Temp\\rust_mozprofiletiQrRo\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59689/devtools/browser/0aca0338-ada7-4abb-80bf-d5295193bda0
+JavaScript error: resource://gre/modules/XULStore.jsm, line 62: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 62: Error: Can't find profile directory.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://randomwordgenerator.com."
+1662127935426	Marionette	INFO	Stopped listening on port 59701
+2127932969	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60049" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\LaTortue\\AppData\\Local\\Temp\\rust_mozprofileJSeFVn"
+1662127933350	Marionette	INFO	Marionette enabled
+1662127933357	Marionette	INFO	Listening on port 60058
+WebDriver BiDi listening on ws://localhost:60049
+Read port: 60058
+1662127933510	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\LaTortue\\AppData\\Local\\Temp\\rust_mozprofileJSeFVn\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60049/devtools/browser/c0dc4014-3b3e-4797-857b-dbaf54308253
+JavaScript error: resource://gre/modules/XULStore.jsm, line 62: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 62: Error: Can't find profile directory.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://randomwordgenerator.com."
+1662128020660	Marionette	INFO	Stopped listening on port 60058
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1662128024504	geckodriver	INFO	Listening on 127.0.0.1:60145
+1662128027573	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60146" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\LaTortue\\AppData\\Local\\Temp\\rust_mozprofileSnlYjk"
+1662128027970	Marionette	INFO	Marionette enabled
+1662128027976	Marionette	INFO	Listening on port 60155
+WebDriver BiDi listening on ws://localhost:60146
+Read port: 60155
+1662128028127	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\LaTortue\\AppData\\Local\\Temp\\rust_mozprofileSnlYjk\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60146/devtools/browser/8d30c16e-9dc1-4df0-a2b9-9ea8bfd6b0e6
+JavaScript error: resource://gre/modules/XULStore.jsm, line 62: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 62: Error: Can't find profile directory.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://randomwordgenerator.com."
+1662128092310	Marionette	INFO	Stopped listening on port 60155
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1662128094162	geckodriver	INFO	Listening on 127.0.0.1:60216
+1662128097206	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60217" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\LaTortue\\AppData\\Local\\Temp\\rust_mozprofile68ttmV"
+1662128097566	Marionette	INFO	Marionette enabled
+1662128097572	Marionette	INFO	Listening on port 60230
+WebDriver BiDi listening on ws://localhost:60217
+Read port: 60230
+1662128097713	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\LaTortue\\AppData\\Local\\Temp\\rust_mozprofile68ttmV\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60217/devtools/browser/b1165e55-7ccf-4839-9540-4c651007fc1f
+JavaScript error: resource://gre/modules/XULStore.jsm, line 62: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 62: Error: Can't find profile directory.
+JavaScript error: https://randomwordgenerator.com/pictionary.php, line 426: TypeError: document.getElementById(...) is null
+JavaScript error: https://randomwordgenerator.com/pictionary.php, line 426: TypeError: document.getElementById(...) is null
+JavaScript error: https://randomwordgenerator.com/pictionary.php, line 426: TypeError: document.getElementById(...) is null
+JavaScript error: https://randomwordgenerator.com/pictionary.php, line 426: TypeError: document.getElementById(...) is null
+JavaScript error: https://randomwordgenerator.com/pictionary.php, line 426: TypeError: document.getElementById(...) is null
+JavaScript error: https://randomwordgenerator.com/pictionary.php, line 426: TypeError: document.getElementById(...) is null
+JavaScript error: https://randomwordgenerator.com/pictionary.php, line 426: TypeError: document.getElementById(...) is null
+JavaScript error: https://randomwordgenerator.com/pictionary.php, line 426: TypeError: document.getElementById(...) is null
+JavaScript error: https://randomwordgenerator.com/pictionary.php, line 426: TypeError: document.getElementById(...) is null
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://randomwordgenerator.com."
+JavaScript error: https://randomwordgenerator.com/pictionary.php, line 426: TypeError: document.getElementById(...) is null
+1662128727155	Marionette	INFO	Stopped listening on port 60230
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+l\\Temp\\rust_mozprofilePWnZm7"
+1662128145494	Marionette	INFO	Marionette enabled
+1662128145501	Marionette	INFO	Listening on port 58401
+WebDriver BiDi listening on ws://localhost:60362
+Read port: 58401
+1662128145646	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\LaTortue\\AppData\\Local\\Temp\\rust_mozprofilePWnZm7\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60362/devtools/browser/3ea7f623-deb5-42ef-8f7e-b8a441d2a4f5
+JavaScript error: resource://gre/modules/XULStore.jsm, line 62: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 62: Error: Can't find profile directory.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://randomwordgenerator.com."
+1662128728118	Marionette	INFO	Stopped listening on port 58401
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1662128730273	geckodriver	INFO	Listening on 127.0.0.1:62532
+1662128733319	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62533" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\LaTortue\\AppData\\Local\\Temp\\rust_mozprofile4OjywP"
+1662128733984	Marionette	INFO	Marionette enabled
+1662128733990	Marionette	INFO	Listening on port 62542
+WebDriver BiDi listening on ws://localhost:62533
+Read port: 62542
+1662128734271	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\LaTortue\\AppData\\Local\\Temp\\rust_mozprofile4OjywP\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62533/devtools/browser/56f10238-723c-4e91-a1a3-f5d3477a5873
+JavaScript error: resource://gre/modules/XULStore.jsm, line 62: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 62: Error: Can't find profile directory.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://randomwordgenerator.com."
+1662128770573	Marionette	INFO	Stopped listening on port 62542
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1662128992327	geckodriver	INFO	Listening on 127.0.0.1:62645
+1662128995399	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62646" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\LaTortue\\AppData\\Local\\Temp\\rust_mozprofilehrOYIE"
+1662128995781	Marionette	INFO	Marionette enabled
+1662128995788	Marionette	INFO	Listening on port 62655
+WebDriver BiDi listening on ws://localhost:62646
+Read port: 62655
+1662128995931	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\LaTortue\\AppData\\Local\\Temp\\rust_mozprofilehrOYIE\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62646/devtools/browser/a0b5542f-159b-4328-84a4-57ff5baeab6f
+JavaScript error: resource://gre/modules/XULStore.jsm, line 62: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 62: Error: Can't find profile directory.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://randomwordgenerator.com."
+1662129101012	Marionette	INFO	Stopped listening on port 62655
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1662129102731	geckodriver	INFO	Listening on 127.0.0.1:62761
+1662129105792	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62762" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\LaTortue\\AppData\\Local\\Temp\\rust_mozprofileArR6Zv"
+1662129106174	Marionette	INFO	Marionette enabled
+1662129106180	Marionette	INFO	Listening on port 62771
+WebDriver BiDi listening on ws://localhost:62762
+Read port: 62771
+1662129106325	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\LaTortue\\AppData\\Local\\Temp\\rust_mozprofileArR6Zv\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62762/devtools/browser/0f612552-aee5-44bb-aa1c-32ec09940f25
+JavaScript error: resource://gre/modules/XULStore.jsm, line 62: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 62: Error: Can't find profile directory.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://randomwordgenerator.com."
+1662129188881	Marionette	INFO	Stopped listening on port 62771
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1662129190507	geckodriver	INFO	Listening on 127.0.0.1:62841
+1662129193587	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62842" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\LaTortue\\AppData\\Local\\Temp\\rust_mozprofilejHeS92"
+1662129193966	Marionette	INFO	Marionette enabled
+1662129193972	Marionette	INFO	Listening on port 62853
+WebDriver BiDi listening on ws://localhost:62842
+Read port: 62853
+1662129194113	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\LaTortue\\AppData\\Local\\Temp\\rust_mozprofilejHeS92\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62842/devtools/browser/272032b2-0b7d-47d9-b9f0-d4e5e4752e59
+JavaScript error: resource://gre/modules/XULStore.jsm, line 62: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 62: Error: Can't find profile directory.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://randomwordgenerator.com."
+1662129396818	Marionette	INFO	Stopped listening on port 62853
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 6320, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:723
+1662151808294	geckodriver	INFO	Listening on 127.0.0.1:56572
+1662151811378	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56573" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\LaTortue\\AppData\\Local\\Temp\\rust_mozprofile9lUsDz"
+1662151812182	Marionette	INFO	Marionette enabled
+1662151812189	Marionette	INFO	Listening on port 56582
+WebDriver BiDi listening on ws://localhost:56573
+Read port: 56582
+1662151812355	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\LaTortue\\AppData\\Local\\Temp\\rust_mozprofile9lUsDz\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56573/devtools/browser/c0d3dbf1-254e-4b9e-8fbb-ba69a89f43e8
+JavaScript error: resource://gre/modules/XULStore.jsm, line 62: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 62: Error: Can't find profile directory.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://randomwordgenerator.com."
+1662193262029	Marionette	INFO	Stopped listening on port 56582
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.

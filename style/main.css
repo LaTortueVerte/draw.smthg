@@ -1,0 +1,265 @@
+@font-face{
+    font-family: Caroni;
+    src: url(Caroni-Regular.otf) format("opentype");
+}
+
+.error{
+    color: red;
+}
+
+#login_form {
+    position: absolute;
+    left:50%;
+    top:50%;
+    margin: -100px;
+    background: linear-gradient(-45deg, #ccc, #eee);
+    border-radius: 5px;
+    padding: 20px;
+    width: 200px;
+}
+
+input[type=text], input[type=password] {
+    background-color: white;
+    font-family: 'Caroni';
+    font-size: 18px;
+    padding: 5px;
+    margin: 8px 0px;
+    border-radius: 5px;
+    border: none;
+}
+
+input[type=submit], #sign_out
+{
+    position:relative;
+    width: 55px;
+    height: 35px;
+    font-family: 'Caroni';
+    font-size: 18px;
+}
+
+input[type=submit]{
+    top: 20px;
+}
+
+#sign_out {
+    left: 60px;
+    top: -15px;
+}
+
+#login_in_register {
+    position:relative;
+    top: -20px;
+    left: 65px;
+}
+
+* {
+    margin:0px;
+    padding:0px;
+    box-sizing:border-box;
+}
+
+@keyframes gradient {
+	0% {
+		background-position: 0% 50%;
+	}
+	50% {
+		background-position: 100% 50%;
+	}
+	100% {
+		background-position: 0% 50%;
+	}
+}
+
+body {
+	background: linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab);
+	background-size: 400% 400%;
+	animation: gradient 30s ease infinite;
+	height: 100vh;
+    overflow-y: scroll;
+    min-height: 900px;
+    font-family: 'Caroni';
+    font-size: 20px;
+}
+
+.app {
+    position: absolute;
+    top:500px;
+    left: 50%;
+    transform:translate(-50%,-50%);
+    width:750px;
+    height:750px;
+    box-shadow: 0 3px 10px rgb(0 0 0 / 0.2);
+}
+
+.menu {
+    height:50px;
+    min-width: 750px;
+    display:flex;
+    align-items:center;
+    background: linear-gradient(-45deg, #ccc, #eee);
+    padding:0px 10px;
+    z-index: -5;
+    box-shadow: 0 3px 10px rgb(0 0 0 / 0.2);
+}
+
+.menu button {
+    padding:5px 10px;
+    cursor: pointer;
+    margin: auto 2px;
+}
+
+#logout{
+    padding: 7px 14px;
+    cursor: pointer;
+    margin: auto 2px;
+    background-color: #555;
+    color: white;
+    border: 1px solid black;
+    border-radius: 5px;
+    text-decoration: none;
+}
+
+#pages{
+    padding: 7px 14px;
+    cursor: pointer;
+    margin: auto 2px;
+    background-color: rgb(227, 227, 229);
+    color: black;
+    border: 1px solid rgb(163, 163, 168);
+    border-radius: 5px;
+    text-decoration: none;
+}
+
+#word-container {
+    position: absolute;
+    left: 50%;
+    margin-left: -90px;
+}
+
+#word-title {
+    display: inline-block;
+    font-style: italic;
+}
+
+#word {
+    display: inline-block;
+    font-weight: bold;
+    font-size: 25px;
+    padding: 7px;
+	background: linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab);
+	background-size: 400% 400%;
+	animation: gradient 15s ease infinite;
+    color: white;
+    border-radius: 5px;
+}
+
+.app .controls {
+    height:50px;
+    display:flex;
+    align-items:center;
+    background: linear-gradient(-45deg, #ccc, #eee);
+    padding:0px 10px;
+    border-top-left-radius: 8px 8px;
+    border-top-right-radius: 8px 8px;
+}
+
+.app .controls .title {
+    font-weight:600;
+    color:#222;
+    width:80px;
+}
+
+.app .controls .type,
+.app .controls .size,
+.app .controls .color {
+    margin: 0px 10px;
+}
+
+.app .controls .color label {
+    vertical-align: 7px;
+}
+
+.app .controls .type input {
+    display:none;
+}
+
+.app .controls .type label {
+    width:30px;
+    height:30px;
+    display:inline-block;
+    text-align:center;
+    line-height: 30px;
+    margin:0px 2px;
+    cursor:pointer;
+}
+
+.app .controls .type input:checked + label {
+    background: #111;
+    color:#eee;
+    border-radius:50%;
+}
+
+.app .controls .size input {
+    height:10px;
+}
+
+.app .controls .actions {
+    flex:1;
+    text-align:right;
+}
+
+.app .controls .actions button {
+    padding:5px 10px;
+    cursor: pointer;
+    font-family: 'Caroni';
+    font-size: 20px;
+}
+
+#date_select{
+    text-align: center;
+    width: 150px;
+    height: 50px;
+    margin: 50px -75px;
+    position: absolute;
+    left: 50%;
+    font-family: 'Caroni';
+    font-size: 25px;
+    border: 1px solid rgb(163, 163, 168);
+    border-radius: 5px;
+    box-shadow: 0 3px 10px rgb(0 0 0 / 0.2);
+}
+
+#word_museum{
+    text-align: center;
+    width: 150px;
+    height: 50px;
+    margin: 130px -75px;
+    position: absolute;
+    left: 50%;
+    font-family: 'Caroni';
+    font-size: 40px;
+    color: white;
+    text-shadow: 0px 0px 5px black;
+}
+
+.list_of_draw{
+    margin-top: 200px;
+    margin-left: 10vw;
+}
+
+.draw{
+    width: 25vw;
+    height: 25vw;
+    border-radius: 8px;
+    box-shadow: 0 3px 10px rgb(0 0 0 / 0.2);
+    margin: 0.75vw;
+}
+
+.author{
+    font-family: 'Caroni';
+    font-size: 18px;
+    font-style: italic;
+    color: white;
+    text-align: center;
+    text-shadow: 0px 0px 5px black;
+}
